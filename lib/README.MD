@@ -13,7 +13,7 @@
 
 **_This project is currently maintained by a single developer on his spare time. Inviting contributors and pull requests to pick-up momentum, and handle the expansive userbase and feature requests._**
 
-This is a super simple angular component for displaying pdfs inline(embedded) OR in a new tab along with a feature rich viewer. It uses mozilla's pdfjs viewer(v2.2.171) behind the scenes and supports angular version from 2.0. Extremely lightweight, easiest to integrate and use, most reliable, this library has only one dependancy (@angular/core).
+This is a super simple angular component for displaying pdfs inline(embedded) OR in a new tab along with a feature rich viewer. It uses mozilla's pdfjs viewer(v2.2.171) behind the scenes and supports angular version from 2.0. Extremely lightweight, easiest to integrate and use, most reliable, this library has only one dependency (@angular/core).
 
 ## What is new?
 
